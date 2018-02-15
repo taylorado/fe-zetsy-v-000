@@ -81,7 +81,7 @@ header a:hover {
 }
 
 #press img:hover {
-  transition: all 1s ease;
+  transition: all 1s ease 0.1s;
   border: 5px rgb(111,127,122) solid;
   background-color: gray;
 
