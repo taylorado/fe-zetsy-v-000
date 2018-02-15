@@ -80,8 +80,9 @@ header a:hover {
 }
 
 #press img:hover {
-	border: 5px rgb(111,127,122) solid;
-  background: cyan;
+  transition: all 0.5s ease;
+  border: 5px rgb(111,127,122) solid;
+  
 }
 
 footer {
