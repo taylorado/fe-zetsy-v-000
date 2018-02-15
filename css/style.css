@@ -54,7 +54,7 @@ header a {
 }
 
 header a:hover {
-  transition: all 0.2s ease 1s;
+  transition: all 1s ease 0.2s;
 	color: rgb(111,127,122);
 }
 
